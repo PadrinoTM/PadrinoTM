@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @PadrinoTM
-- 👀 I’m interested in Datascience, Engineering, Machine Learning projects
-- 🌱 I’m currently learning ... JavaScript, Swift, Java
+- 👋 Hi, I’m Idowu Tosin
+- 👀 I’m interested in Web Development, Software Engineering and Machine Learning projects
+- 🌱 I’m Experienced in frameworks such as .NET Core, React JS, ASP.NET using C#
+- 👀 I'm interested in learning... GoLang, Swift, Carbon.
 - 💞️ I’m looking to collaborate on ...Interesting projects and skills
-- 📫 How to reach me ...mailto tmidowu@gmail.com 
+- 📫 You can reach me here ...mailto tm.goldenpen@gmail.com 
 
 <!---
 PadrinoTM/PadrinoTM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
